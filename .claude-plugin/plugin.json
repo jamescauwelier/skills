@@ -4,5 +4,9 @@
   "author": {
     "name": "James Cauwelier",
     "email": "james@accelerated.dev"
-  }
+  },
+  "skills": [
+    "skills/analysis/grill-me",
+    "skills/engineering/grill-with-docs"
+  ]
 }
