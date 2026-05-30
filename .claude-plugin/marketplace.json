@@ -18,8 +18,7 @@
       "source": {
         "source": "github",
         "repo": "jamescauwelier/skills",
-        "commit": "f644ca038b4ecadbe2d464ea1b19f9a23057469c",
-        "sha": "093f5550a08dd12124b3b05cf1a9a58e465694cf"
+        "commit": "f644ca038b4ecadbe2d464ea1b19f9a23057469c"
       },
       "homepage": "https://github.com/jamescauwelier/skills"
     }
