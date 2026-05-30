@@ -18,9 +18,14 @@
       "source": {
         "source": "github",
         "repo": "jamescauwelier/skills",
-        "commit": "f644ca038b4ecadbe2d464ea1b19f9a23057469c"
+        "commit": "2852127638b02eef30b057802113ec36d0f08e02"
       },
-      "homepage": "https://github.com/jamescauwelier/skills"
+      "homepage": "https://github.com/jamescauwelier/skills",
+      "skills": [
+        "skills/analysis/grill-me",
+        "skills/engineering/grill-with-docs"
+      ],
+      "strict": false
     }
   ]
 }
